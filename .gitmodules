@@ -1,0 +1,6 @@
+[submodule "libraries/max7219"]
+	path = libraries/max7219
+	url = https://github.com/rm-hull/max7219.git
+[submodule "libraries/MFRC522-python"]
+	path = libraries/MFRC522-python
+	url = https://github.com/pimylifeup/MFRC522-python.git
